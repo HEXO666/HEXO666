@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SMUL</h1>
 <h3 align="center">A passionate Software Engineer from MOROCCO</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scar7things&label=Profile%20views&color=0e75b6&style=flat" alt="scar7things" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scar7things&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scar7things" alt="scar7things" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scar7things" alt="" /></a> </p>
 
 
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="[[https://instagram.com/ahmeedaminnn](https://www.instagram.com/__salaheddine___/?next=%2F)](https://www.instagram.com/__salaheddine___/?next=%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smul" height="30" width="40" /></a>
-<a href="https://discord.gg/_smull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="scar7things" height="30" width="40" /></a>
+<a href="https://discord.gg/_smull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

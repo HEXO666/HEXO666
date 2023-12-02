@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm salaheddine AKA SMULL</h1>
 <h3 align="center">A passionate developper and cyber security researcher from MOROCCO</h3>
 <h3 align="center">i'm in alx africa software engineer program</h3>
-
-
-
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SMULL666](https://github.com/SMULL666)
@@ -12,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://instagram.com/ahmeedaminnn](https://www.instagram.com/__salaheddine___/?next=%2F)](https://www.instagram.com/__salaheddine___/?next=%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smul" height="30" width="40" /></a>
+<a href="[[https://instagram.com/__salaheddine___](https://www.instagram.com/__salaheddine___/?next=%2F)](https://www.instagram.com/__salaheddine___/?next=%2F)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smul" height="30" width="40" /></a>
 <a href="https://discord.gg/_smull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="30" width="40" /></a>
 </p>
 

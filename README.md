@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm salaheddine AKA SMULL</h1>
+<h1 align="center">Hi 👋, I'm salaheddine AKA HEXO</h1>
 <h3 align="center">A passionate developper and cyber security researcher from MOROCCO</h3>
-<h3 align="center">i'm in alx africa software engineer program</h3>
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SMULL666](https://github.com/SMULL666)
 
-- 📫 How to reach me **smully@proton.ch**
+- 📫 How to reach me **salahbnd0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

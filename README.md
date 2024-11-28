@@ -2,7 +2,9 @@
 <h3 align="center">A passionate developper and cyber security researcher from MOROCCO</h3>
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SMULL666](https://github.com/SMULL666)
+- 👨‍💻 All of my projects are available at [https://github.com/HEXO666
+](https://github.com/HEXO666
+)
 
 - 📫 How to reach me **salahbnd0@gmail.com**
 

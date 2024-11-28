@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm salaheddine AKA HEXO</h1>
+<h1 align="center">Hi 👋, I'm salaheddine Benouda AKA HEXO</h1>
 <h3 align="center">A passionate developper and cyber security researcher from MOROCCO</h3>
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
 
